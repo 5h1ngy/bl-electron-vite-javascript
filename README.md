@@ -7,6 +7,8 @@
 
 A minimal Electron application built with JavaScript and Vite. Perfect for creating lightweight, cross-platform desktop applications without the complexity of frameworks.
 
+**Topics:** `electron` `javascript` `vite` `cross-platform` `desktop-app` `offline-first` `local-storage` `minimal` `lightweight`
+
 ## 📋 Table of Contents
 - [Features](#-features)
 - [Project Structure](#-project-structure)
